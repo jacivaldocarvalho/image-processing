@@ -11,7 +11,6 @@ Um pacote Python para processamento básico de imagens, incluindo conversão par
   - [Funcionalidades](#funcionalidades)
   - [Uso](#uso)
   - [Testes](#testes)
-  - [Conclusão](#conclusão)
   - [Contribuições](#contribuições)
   - [Licenciamento](#licenciamento)
   - [Autor](#autor)
@@ -75,10 +74,6 @@ Para executar os testes, utilize:
 ```bash
 python -m unittest discover tests/
 ```
-
-## Conclusão
-
-Seguir essas boas práticas ajudará a criar um ambiente colaborativo mais eficiente e agradável. Mantenha sempre a comunicação aberta e esteja disposto a aprender e adaptar-se. Boas contribuições!
 
 ## Contribuições
 Sinta-se à vontade para contribuir. Faça um fork do projeto, crie uma branch para suas alterações e envie um pull request.
