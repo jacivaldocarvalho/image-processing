@@ -1,0 +1,18 @@
+# Ignorar arquivos de log
+*.log
+
+# Ignorar a pasta build
+build/
+
+# Ignorar arquivos temporários
+*.tmp
+
+
+# Ignorar todos os arquivos em uma pasta específica
+image_processor_jr.egg-info/
+image_processor.egg-info/
+dist/
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
