@@ -84,6 +84,6 @@ Este projeto é licenciado sob a [MIT License](LICENSE) - veja o arquivo LICENSE
 
 ## Autor
 
-Juninho Carvalho [LinkedIn](https://www.linkedin.com/in/jacivaldocarvalho/)
+Jacivaldo Carvalho [LinkedIn](https://www.linkedin.com/in/jacivaldocarvalho/)
 
 
