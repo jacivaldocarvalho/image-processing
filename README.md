@@ -1,8 +1,4 @@
-Claro! Abaixo está a versão atualizada do README com um índice interativo, com links para as seções correspondentes:
-
----
-
-# Image Processing
+# Image Processing em Python
 
 Bem-vindo ao repositório de **Image Processing**! Este projeto foi desenvolvido para fornecer uma série de ferramentas úteis para o processamento de imagens. A seguir, você encontrará instruções detalhadas sobre como utilizar o script, os pré-requisitos necessários e informações adicionais para facilitar a navegação e o uso.
 
