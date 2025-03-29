@@ -93,13 +93,7 @@ A lista completa de dependências pode ser encontrada no arquivo `requirements.t
 
 ---
 
-## Licença
-
-Este projeto está licenciado sob a **MIT License**.
-
----
-
-## Contato
+## Contato e Networking
 
 Fique à vontade para entrar em contato ou acompanhar o progresso deste projeto:
 
@@ -113,3 +107,10 @@ Fique à vontade para entrar em contato ou acompanhar o progresso deste projeto:
 ## Contribua
 
 Se você deseja contribuir com melhorias ou correções, sinta-se à vontade para abrir **issues** ou **pull requests**. A sua contribuição é muito bem-vinda! 
+
+---
+
+## Licença
+
+Este projeto está licenciado sob a **MIT License**.
+
