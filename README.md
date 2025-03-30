@@ -95,12 +95,12 @@ A lista completa de dependências pode ser encontrada no arquivo `requirements.t
 
 ## Contato e Networking
 
-Fique à vontade para entrar em contato ou acompanhar o progresso deste projeto:
-
 - LinkedIn 👔: [Jacivaldo Carvalho](https://www.linkedin.com/in/jacivaldo-carvalho)
 - E-mail 📧: [jacivaldo@example.com](mailto:jacivaldo@example.com)
 - GitHub 🐙: [jacivaldocarvalho](https://github.com/jacivaldocarvalho)
 - Medium ✍️: [jacivaldo-carvalho.medium.com](https://jacivaldo-carvalho.medium.com)
+
+Sempre aberto a novas conexões e oportunidades de aprendizado!
 
 ---
 
